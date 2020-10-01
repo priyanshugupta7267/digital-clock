@@ -1,4 +1,5 @@
 # digital-clock
+# run this file
 used as digital clock
 
 
